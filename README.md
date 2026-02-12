@@ -1,11 +1,12 @@
 # Hi there, I'm Danila! 👋
 
-I'm a passionate Embedded Systems Engineer who finds beauty in creating reliable, efficient, and well-designed low-level code. For me, Rust is the perfect tool to build software that is not only performant but also safe and elegant by design.
+I'm a Backend and Embedded Systems Developer who finds beauty in creating reliable, efficient, and well-designed code. For me, Rust is the perfect tool to build software that is not only performant but also safe and elegant by design.
 
 - 🦀 I specialize in **Embedded Rust**, contributing to ecosystems like `@embassy-rs` and `@esp-rs`.
+- 🌐 I build **backend services** with Rust (Tokio, Axum) and other modern tools.
 - ⚙️ I have hands-on experience with MCUs like **STM32, ESP32, and nRF52**.
 - 🐧 I'm a long-time **Linux** user and advocate for open-source.
-- 💬 I'm always open to discussing embedded systems, Rust, or interesting new projects.
+- 💬 I'm always open to discussing embedded systems, backend development, Rust, or interesting new projects.
 
 ---
 
@@ -46,7 +47,15 @@ I'm a passionate Embedded Systems Engineer who finds beauty in creating reliable
 ### My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okhsunrog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Danila's GitHub Stats" />
+  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/dracula/3-stats.svg" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
 
 ---
